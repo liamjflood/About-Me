@@ -4,6 +4,8 @@ I am a leader for the energy transition. I have recently completed an EMBA from 
 # Projects
 These are the important projects that I care about and am working on. 
 
+## Business Strategy
+
 ## Energy Transition
 
 ## Innovation and Prototyping
