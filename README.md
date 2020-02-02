@@ -12,7 +12,10 @@ These are the important projects that I care about and am working on.
 
 ## Essays
 
-## RagnarRockGeo
+## RagnaRockGeo
+Advisor on strategy to the CEO of an ML seismic interpretation start up.
+
+RagnaRockGeo were one of the Techstars at Equinor, Class of 2019.
 
 ## Gamayun
 
